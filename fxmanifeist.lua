@@ -1,7 +1,7 @@
 fx_version 'Cerulean'
 game 'gta5'
 
-Author 'STRG'
+Author '5ec0ur'
 Description 'Reduce Server Lag (Changing Values for the densitys of Traffic , Peds And Animals)'
 
 Version '1.0.0'
